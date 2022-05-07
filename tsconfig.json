@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "watch": true,
+    "outDir": "dist"
+  },
+  "include": ["src/**/*"]
+}
