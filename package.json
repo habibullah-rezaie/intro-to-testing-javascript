@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/habibullah-rezaie/intro-to-testing-javascript/issues"
   },
-  "homepage": "https://github.com/habibullah-rezaie/intro-to-testing-javascript#readme"
+  "homepage": "https://github.com/habibullah-rezaie/intro-to-testing-javascript#readme",
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "ts-jest": "^28.0.1"
+  }
 }
