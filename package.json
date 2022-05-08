@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-testing-javascript",
+  "version": "1.0.0",
+  "description": "This is a walkthrough of exercises of [Kent C. Dodds blog about testing in JavaScript][kentJavaScriptTesting]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habibullah-rezaie/intro-to-testing-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habibullah-rezaie/intro-to-testing-javascript/issues"
+  },
+  "homepage": "https://github.com/habibullah-rezaie/intro-to-testing-javascript#readme"
+}
