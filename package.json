@@ -1,5 +1,6 @@
 {
   "name": "intro-to-testing-javascript",
+  "type": "module",
   "version": "1.0.0",
   "description": "This is a walkthrough of exercises of [Kent C. Dodds blog about testing in JavaScript][kentJavaScriptTesting]",
   "main": "index.js",
