@@ -4,7 +4,7 @@
   "description": "This is a walkthrough of exercises of [Kent C. Dodds blog about testing in JavaScript][kentJavaScriptTesting]",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
